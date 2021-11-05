@@ -14,8 +14,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8D1107260486CEB800E47090"
-               BuildableName = "DeSmuME.app"
-               BlueprintName = "DeSmuME (OS X App; v10.5 Leopard Release Build -- Xcode 9)"
+               BuildableName = "DeSmuME (32bit).app"
+               BlueprintName = "DeSmuME (OS X App; 32-bit for v10.5 Leopard Release Build -- Xcode 9)"
                ReferencedContainer = "container:DeSmuME (Latest).xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -26,19 +26,17 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <Testables>
-      </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D1107260486CEB800E47090"
-            BuildableName = "DeSmuME.app"
-            BlueprintName = "DeSmuME (OS X App; v10.5 Leopard Release Build -- Xcode 9)"
+            BuildableName = "DeSmuME (32bit).app"
+            BlueprintName = "DeSmuME (OS X App; 32-bit for v10.5 Leopard Release Build -- Xcode 9)"
             ReferencedContainer = "container:DeSmuME (Latest).xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
+      <Testables>
+      </Testables>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -60,13 +58,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D1107260486CEB800E47090"
-            BuildableName = "DeSmuME.app"
-            BlueprintName = "DeSmuME (OS X App; v10.5 Leopard Release Build -- Xcode 9)"
+            BuildableName = "DeSmuME (32bit).app"
+            BlueprintName = "DeSmuME (OS X App; 32-bit for v10.5 Leopard Release Build -- Xcode 9)"
             ReferencedContainer = "container:DeSmuME (Latest).xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -79,8 +75,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8D1107260486CEB800E47090"
-            BuildableName = "DeSmuME.app"
-            BlueprintName = "DeSmuME (OS X App; v10.5 Leopard Release Build -- Xcode 9)"
+            BuildableName = "DeSmuME (32bit).app"
+            BlueprintName = "DeSmuME (OS X App; 32-bit for v10.5 Leopard Release Build -- Xcode 9)"
             ReferencedContainer = "container:DeSmuME (Latest).xcodeproj">
          </BuildableReference>
       </MacroExpansion>
