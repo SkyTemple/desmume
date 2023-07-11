@@ -381,7 +381,7 @@ bool CommandLine::parse(int argc,char **argv)
 
 	if(opt_help)
 	{
-		printf(help_string);
+		printf("%s", help_string);
 		exit(1);
 	}
 
@@ -555,7 +555,7 @@ bool CommandLine::validate()
 
 void CommandLine::errorHelp(const char* binName)
 {
-	printerror(help_string);
+	printerror("%s", help_string);
 }
 
 void CommandLine::process_movieCommands()
